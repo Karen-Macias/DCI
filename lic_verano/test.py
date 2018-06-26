@@ -1,5 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import scipy as sc
+
 
 x=np.linspace(-5,5,20)
 y=x**2
